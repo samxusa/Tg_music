@@ -1,7 +1,7 @@
 # -_-
 <div align="center">
 
-<img src="https://files.catbox.moe/ky6ln3.jpg" width="220">
+<img src="https://files.catbox.moe/43725g.png" width="220">
 
 # 🌹 ROSE X MUSIC
 
