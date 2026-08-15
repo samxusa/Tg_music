@@ -26,9 +26,9 @@ API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "riskyhater")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "aresxcores")
 BOT_USERNAME = getenv("BOT_USERNAME", "Rose_X_Musicbot")
-BOT_NAME = getenv("BOT_NAME", "⏤͟͟͞͞ 𝐑𝐨𝐬𝐞 ꭙ ❰ 𝐌 𝐔 𝐒 𝐈 𝐂 ❱ • !! ˹🌹🎶˼")
+BOT_NAME = getenv("BOT_NAME", "˹RᴏꜱᴇxMᴜꜱɪᴄ 🕊")
 ASSUSERNAME = getenv("ASSUSERNAME", "")
 
 # AI Chatbot
@@ -41,7 +41,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 # Limits and IDs
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", "0"))
-OWNER_ID = int(getenv("OWNER_ID", 8944723811))
+OWNER_ID = int(getenv("OWNER_ID", 8878619333))
 
 # Heroku
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
@@ -54,8 +54,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/rosexupdates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/rosexsupports")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/aresxcores")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/roseysupport")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
@@ -104,26 +104,26 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", getenv("LOGGER_ID", "0")))
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", SUPPORT_CHAT)
 
 # Image URLs
-SHASHANK_IMG = getenv("SHASHANK_IMG", "https://files.catbox.moe/395pae.jpg").split(",") if "," in getenv("SHASHANK_IMG", "") else [getenv("SHASHANK_IMG", "https://files.catbox.moe/395pae.jpg")]
+SHASHANK_IMG = getenv("SHASHANK_IMG", "https://files.catbox.moe/43725g.png").split(",") if "," in getenv("SHASHANK_IMG", "") else [getenv("SHASHANK_IMG", "https://files.catbox.moe/395pae.jpg")]
 
 # Rotating start photos (used by start command and home callbacks)
-_ROSE_IMG = "https://files.catbox.moe/395pae.jpg"
+_ROSE_IMG = "https://files.catbox.moe/43725g.png"
 START_PICS = [_ROSE_IMG] * 11
 
 PING_VIDEO_URL = getenv("PING_VIDEO_URL", "https://files.catbox.moe/lltsdr.mp4")
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-STATS_IMG_URL = getenv("STATS_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-TELEGRAM_AUDIO_URL = getenv("TELEGRAM_AUDIO_URL", "https://files.catbox.moe/395pae.jpg")
-TELEGRAM_VIDEO_URL = getenv("TELEGRAM_VIDEO_URL", "https://files.catbox.moe/395pae.jpg")
-STREAM_IMG_URL = getenv("STREAM_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-SOUNCLOUD_IMG_URL = getenv("SOUNCLOUD_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-YOUTUBE_IMG_URL = getenv("YOUTUBE_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-SPOTIFY_ARTIST_IMG_URL = getenv("SPOTIFY_ARTIST_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-SPOTIFY_ALBUM_IMG_URL = getenv("SPOTIFY_ALBUM_IMG_URL", "https://files.catbox.moe/395pae.jpg")
-SPOTIFY_PLAYLIST_IMG_URL = getenv("SPOTIFY_PLAYLIST_IMG_URL", "https://files.catbox.moe/395pae.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/43725g.png")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/43725g.png")
+PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "https://files.catbox.moe/43725g.png")
+STATS_IMG_URL = getenv("STATS_IMG_URL", "https://files.catbox.moe/43725g.png")
+TELEGRAM_AUDIO_URL = getenv("TELEGRAM_AUDIO_URL", "https://files.catbox.moe/43725g.png")
+TELEGRAM_VIDEO_URL = getenv("TELEGRAM_VIDEO_URL", "https://files.catbox.moe/43725g.png")
+STREAM_IMG_URL = getenv("STREAM_IMG_URL", "https://files.catbox.moe/43725g.png")
+SOUNCLOUD_IMG_URL = getenv("SOUNCLOUD_IMG_URL", "https://files.catbox.moe/43725g.png")
+YOUTUBE_IMG_URL = getenv("YOUTUBE_IMG_URL", "https://files.catbox.moe/43725g.png")
+SPOTIFY_ARTIST_IMG_URL = getenv("SPOTIFY_ARTIST_IMG_URL", "https://files.catbox.moe/43725g.png")
+SPOTIFY_ALBUM_IMG_URL = getenv("SPOTIFY_ALBUM_IMG_URL", "https://files.catbox.moe/43725g.png")
+SPOTIFY_PLAYLIST_IMG_URL = getenv("SPOTIFY_PLAYLIST_IMG_URL", "https://files.catbox.moe/43725g.png")
 
 
 # Helper function
