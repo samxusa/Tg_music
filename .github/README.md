@@ -855,11 +855,11 @@ Every ⭐ motivates future development.
 
 <p align="center">
 
-<a href="https://t.me/rosexupdates">
+<a href="https://t.me/aresxcores">
 <img src="https://img.shields.io/badge/Updates-Join-black?style=for-the-badge&logo=telegram"/>
 </a>
 
-<a href="https://t.me/rosexsupports">
+<a href="https://t.me/roseysupports">
 <img src="https://img.shields.io/badge/Support-Group-black?style=for-the-badge&logo=telegram"/>
 </a>
 
