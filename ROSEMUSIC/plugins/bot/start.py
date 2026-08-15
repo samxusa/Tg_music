@@ -58,16 +58,16 @@ welcome_db = db.welcome_config
 # ================================
 #        ROSE MUSIC BOT BRANDING
 # ================================
-_ROSE_THUMB = "https://files.catbox.moe/395pae.jpg"
+_ROSE_THUMB = "https://files.catbox.moe/43725g.png"
 ROSE_PICS = [_ROSE_THUMB] * 9
 
-ROSE_BOT_NAME = "⏤͟͟͞͞ 𝐑𝐨𝐬𝐞 ꭙ ❰ 𝐌 𝐔 𝐒 𝐈 𝐂 ❱ • !! ˹🌹🎶˼"
+ROSE_BOT_NAME = "˹RᴏꜱᴇxMᴜꜱɪᴄ 🕊"
 ROSE_BOT_USERNAME = "@Rose_X_Musicbot"
-ROSE_OWNER = "@Riskyhater"
-ROSE_SUPPORT_LINK = "https://t.me/rosexsupports"
-ROSE_UPDATES_LINK = "https://t.me/rosexupdates"
-ROSE_POWERED_BY = "⏤͟͟͞͞ Ꭼ𝛎𝛊ʟ ꭙ⁠⁠⁠ ❰ 𝐆 𝐎 𝐃 ❱ • !! ˹🔥👹˼"
-ROSE_FOOTER = "ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ " + ROSE_POWERED_BY
+ROSE_OWNER = "@aresxcores"
+ROSE_SUPPORT_LINK = "https://t.me/roseysupport"
+ROSE_UPDATES_LINK = "https://t.me/aresxcores"
+ROSE_POWERED_BY = "ᴀʀᴇꜱ𝐗ɢᴏᴅ"
+ROSE_FOOTER = "˹RᴏꜱᴇxMᴜꜱɪᴄ 🕊 " + ROSE_POWERED_BY
 
 GREET = [
     "💞", "🥂", "🔍", "🧪", "🥂", "⚡️", "🔥",
