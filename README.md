@@ -625,16 +625,16 @@ Now every song will stream directly into your **Channel Voice Chat**.
 Need help with setup or facing any issue?
 
 ### 💬 Support Group
-https://t.me/rosexsupports
+https://t.me/roseysupport
 
 ### 📢 Updates Channel
-https://t.me/rosexupdates
+https://t.me/aresxcores
 
 ### 👑 Owner
 **EGOISTIC**
 
 Telegram:
-https://t.me/riskyhater
+https://t.me/aresxcores
 
 ---
 
@@ -671,7 +671,7 @@ https://t.me/riskyhater
 **EGOISTIC**
 
 Telegram:
-https://t.me/riskyhater
+https://t.me/aresxcores
 
 ---
 
@@ -729,19 +729,19 @@ https://github.com/Techapiders1/ᴛᴇʟᴇɢʀᴀᴍ_ᴍᴜꜱɪᴄ
 
 Updates Channel
 
-https://t.me/rosexupdates
+https://t.me/aresxcores
 
 Support Group
 
-https://t.me/rosexsupports
+https://t.me/roseysupport
 
 Developer
 
-https://t.me/riskyhater
+https://t.me/aresxcores
 
 Credits
 
-https://t.me/riskyculsor
+https://t.me/lustybanner
 
 ---
 
